@@ -1,0 +1,13 @@
+1. Name (Project heading) : Android Device As Smart Control
+2. Remote Centre ID (RC_ID) : 1179
+3. College / Institute Name : Viswajyothi College Of Engineering And Technology, Vazhakkulam.
+4. Vazhakkulam, Kerala , 686670.
+5. Asst. Prof. Jacob Mathai, Team Members:
+   Ajilraj V,Alby Joy,Athil Farook,Rolbin Tom Raichan.
+6. About (Short Description / Summary):
+
+
+An Android application for controlling PC and Television.
+The project presents Android-based system for remote control in virtual desktop environment. It enables to build cooperative device collaboration by orchestrating virtualized peripheral resources such as monitors, keyboarders, mice and so on. The objective of this project is to provide an Android-based phone with functions of a mouse, a keyboard and a monitor. It enables complete control including a voice recognition system. The challenge point of this paper is recognising each and every pronunciation styles. There is also another module which showcases a low cost stand-alone device which transmits data using the Raspberry Pi with Bluetooth and has a resistive touch screen display providing a user interface.
+
+Mail: jacob_mathai@ymail.com
